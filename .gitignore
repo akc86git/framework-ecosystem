@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+node_modules/
+*.egg-info
+*.log
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# databases
+db.sqlite3
+
+# IDE files
+.idea/
+.vscode/
